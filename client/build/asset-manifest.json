@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57f0d513.css",
+    "main.js": "/static/js/main.fdfc04b9.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Pras.jpg": "/static/media/Pras.5bd9fbeafd0c013f13a6.jpg",
+    "static/media/Gurramkonda_Prasad.pdf": "/static/media/Gurramkonda_Prasad.206a4b2b6b7e9caf6698.pdf",
+    "index.html": "/index.html",
+    "main.57f0d513.css.map": "/static/css/main.57f0d513.css.map",
+    "main.fdfc04b9.js.map": "/static/js/main.fdfc04b9.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f0d513.css",
+    "static/js/main.fdfc04b9.js"
+  ]
+}
